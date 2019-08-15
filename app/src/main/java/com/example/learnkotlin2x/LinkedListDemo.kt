@@ -9,7 +9,7 @@ fun main(){
     var listOfStankes = LinkedList<String>()
     var listOfCats = LinkedList<Int>()
     var listOfDogs = LinkedList<Double>()
-    
+
 
     do{
         val petName = readLine()!!.toString()
