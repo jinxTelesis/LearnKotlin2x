@@ -43,6 +43,6 @@ fun main(){
     val paypal = PayPal(masterCard)
     println("cardNumber PayPal:${paypal.cardNumber}")
 
-    
+
 
 }
